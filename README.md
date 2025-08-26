@@ -1,2 +1,3 @@
-# Memoracion-Programming-Assignments
-PA 1 - Accomplished (08/26/2025)
+# Memoracion-Programming-Assignments Log
+08/25/2025 change:
+PA 1 - Accomplished
