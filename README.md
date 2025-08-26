@@ -1,4 +1,8 @@
-# Memoracion-Programming-Assignments Log
-08/25/2025 change:
+# 📘 Memoracion Programming Assignments Log
 
-PA 1 - Accomplished
+A running log of changes and progress on programming assignments.
+
+---
+
+## 📅 08/25/2025
+- ✅ **PA 1** – Accomplished
