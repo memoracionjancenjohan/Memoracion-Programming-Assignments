@@ -28,10 +28,10 @@ The **`alphabet_soup`** function takes a word as input and returns the letters o
 The **`emotify`** function takes a sentence as input and replaces certain words with their corresponding emoticons.
 
 - It uses a dictionary (**`emojis`**) to map words to emoticons:
-  - `"smile"` → 🙂
-  - `"grin"` → 😁
-  - `"sad"` → 😢
-  - `"mad"` → 😠
+  - `"smile"` → :)
+  - `"grin"` → :D
+  - `"sad"` → :((
+  - `"mad"` → >:(
 - The sentence is:
   - Split into words using **`.split()`**.
   - Each word is checked (case-insensitive with **`.lower()`**) against the dictionary.
