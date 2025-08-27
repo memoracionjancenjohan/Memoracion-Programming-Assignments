@@ -7,7 +7,9 @@ A running log of changes and progress on programming assignments.
 ## 📅 08/25/2025
 - ✅ **PA 1** – Accomplished
 
-#Instructions
+---
+
+# 📝 Instructions
 
 ## 📌 Alphabet Soup Problem
 The **`alphabet_soup`** function takes a word as input and returns the letters of the word sorted in alphabetical order.
@@ -34,19 +36,7 @@ The **`emotify`** function takes a sentence as input and replaces certain words 
   - Split into words using **`.split()`**.
   - Each word is checked (case-insensitive with **`.lower()`**) against the dictionary.
   - If the word exists, it is replaced with its emoticon; otherwise, it remains unchanged.
-- Finally, the words are joined back into a sentence with **`" ".join()`** and returned.
-- The program then prints the new sentence.
-
----
-
-## 📦 Unpacking List Problem
-The **`unpack_list`** function takes a list as input and splits it into three parts:
-
-- **First**: gets the first element → **`lst[0]`**
-- **Middle**: gets all elements except the first and last → **`lst[1:-1]`**
-- **Last**: gets the last element → **`lst[-1]`**
-
-The function returns these three variables together as a tuple using **`return`**, and then prints them from the input.
+- Finall
 
 
 
