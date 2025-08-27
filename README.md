@@ -9,7 +9,7 @@ A running log of changes and progress on programming assignments.
 
 ---
 
-# 📝 Instructions
+# 📝 Instructions (PA 1)
 
 ## 📌 Alphabet Soup Problem
 The **`alphabet_soup`** function takes a word as input and returns the letters of the word sorted in alphabetical order.
